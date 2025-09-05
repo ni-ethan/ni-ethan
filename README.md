@@ -1,4 +1,4 @@
 # kittenmuncher43
 
 ontario high school student  
-c++, python
+i use c++, python, jupyter notebooks
