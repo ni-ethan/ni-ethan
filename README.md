@@ -11,4 +11,5 @@ tools: git, cmake, jupyter notebook, docker
 
 ### socials
 
-[website](https://ni-ethan.github.io) / [medium](https://medium.com/@ni_ethan)
+website: https://ni-ethan.github.io  
+medium: https://medium.com/@ni_ethan
