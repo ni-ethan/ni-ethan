@@ -1,6 +1,6 @@
 # ethan ni
 
-ontario high school student with a passion for machine learning and mathematics.
+ontario high school student, i like machine learning and mathematics.
 
 ### tech stack
 
