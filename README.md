@@ -1,4 +1,4 @@
-# kittenmuncher43
+# ethan ni
 
 ontario high school student  
 i enjoy learning ml and math  
