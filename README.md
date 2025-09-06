@@ -1,7 +1,7 @@
 # kittenmuncher43
 
 ontario high school student  
-i like learning ml and math  
+i enjoy learning ml and math  
   
 langs: c++, python  
 frameworks: pytorch  
