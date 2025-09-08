@@ -1,9 +1,7 @@
 # ethan ni
 
-ontario high school student, i like machine learning and mathematics.
+ontario high school student, i like machine learning and mathematics
 
-### tech stack
-
-langs: c++, python  
+langs: c++, rust, python  
 frameworks: pytorch  
 tools: git, cmake, jupyter notebook, docker  
