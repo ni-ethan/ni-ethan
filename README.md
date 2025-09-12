@@ -2,6 +2,6 @@
 
 ontario high school student, i like machine learning and mathematics
 
-langs: c++, rust, python  
+langs: rust, python  
 frameworks: pytorch, candle  
-tools: git, cmake, cargo, docker  
+tools: git, cargo, docker  
